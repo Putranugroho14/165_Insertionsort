@@ -69,5 +69,7 @@ void display() {                                               // Prosedur displ
 }
 int main()
 {
-    
+	input();             // Memanggil input
+	insertionsort();     // Memanggil Insertionsort
+	display();           // Memanggil display
 }
